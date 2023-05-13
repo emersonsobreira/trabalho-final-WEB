@@ -1,0 +1,24 @@
+/* stilos da pagina excluir */
+
+.excluir-cor {
+	background-color: #007bff;
+    color: aliceblue;
+  }
+
+  .nav-pills .nav-link.active{
+    background-color: #ffffff;
+    color: #007bff;
+     }
+     
+  .excluir-cor > a{
+    color: #ffffff;
+    }
+  .btn-danger{
+      display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    }
+   
+    
